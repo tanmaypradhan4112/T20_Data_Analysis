@@ -34,7 +34,12 @@ This technical documentation outlines the process and methodology for analyzing 
 
  ### Creating Dashboard
  #### Openers 
+ ![Openers Dasboard]()
  #### Middle Order
+ ![Openers Dasboard]()
  #### Lower Order
+ ![Middle Order Dasboard]()
  #### Lower Middle Order
+ ![Lower Middle Order Dasboard]()
  #### Specialist Fast Bowler
+ ![Specialist Fast Bowler Dasboard]()
