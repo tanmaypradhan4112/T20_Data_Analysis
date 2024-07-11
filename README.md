@@ -45,5 +45,15 @@ This technical documentation outlines the process and methodology for analyzing 
  ![Specialist Fast Bowler Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114253.png)
 
  ### Result
+ #### Best "Playing 11" Squad
+- **Optimal Team Composition**: Listing the selected players with their roles (e.g., opening batsman, fast bowler).
+- **Justification**: Detailed explanation of why each player was chosen based on the analysis.
+ #### Insights and Recommendations
+- **Strengths and Weaknesses**: Highlighting the selected squad's key strengths and potential vulnerabilities.
+- **Strategic Suggestions**: Recommendations for team management on strategy and player utilization.
+  
  #### Final 11
  ![Final 11 Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114308.png)
+
+### Conclusion
+Summarizing the methodology, key findings, and the practical implications of the analysis. Discussing potential areas for future research and improvements in data analysis techniques for sports analytics.
