@@ -34,12 +34,16 @@ This technical documentation outlines the process and methodology for analyzing 
 
  ### Creating Dashboard
  #### Openers 
- ![Openers Dasboard]()
+ ![Openers Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114145.png)
  #### Middle Order
- ![Openers Dasboard]()
+ ![Middle Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114206.png)
  #### Lower Order
- ![Middle Order Dasboard]()
+ ![Lower Order Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114221.png)
  #### Lower Middle Order
- ![Lower Middle Order Dasboard]()
+ ![Lower Middle Order Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114239.png)
  #### Specialist Fast Bowler
- ![Specialist Fast Bowler Dasboard]()
+ ![Specialist Fast Bowler Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114253.png)
+
+ ### Result
+ #### Final 11
+ ![Final 11 Dasboard](https://raw.githubusercontent.com/tanmaypradhan4112/T20_Data_Analysis/main/Result/Screenshot%202024-07-11%20114308.png)
